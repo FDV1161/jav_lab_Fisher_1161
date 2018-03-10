@@ -1,6 +1,0 @@
-<html>
-<head></head>
-<body>
-<b>Новый файл2</b>
-</body>
-</html>
